@@ -73,7 +73,6 @@ p a{
 
 @media(max-width:1306px){
     .star{
-        background: green;
         width: 100%;
         text-align: center;
     }
